@@ -1,37 +1,45 @@
+# 👋 Hi, I'm Brown
 
-👋 Hi, I'm Brown Onuigbo
-💻 Software Engineer | Application Support Engineer | Problem-Solver
-I'm an Information Technology professional with a strong foundation in both application support and software development. With a proven track record of diagnosing and resolving complex technical issues, I thrive on ensuring the optimal performance of critical software applications while delivering exceptional customer service.
+### 💻 Software Engineer | Application Support Engineer | Problem-Solver
 
-Currently working as a Software Engineer, I enjoy building scalable and efficient systems using:
+I'm an Information Technology professional with a strong foundation in both **application support** and **software development**.  
+With a proven track record of diagnosing and resolving complex technical issues, I thrive on ensuring the **optimal performance** of critical software applications while delivering **exceptional customer service**.
 
-⚙️ Node.js, Express, Next.js, PHP
-🧠 JavaScript (ES6+), SQL, MongoDB
-🔧 REST APIs, MVC, SSR, Web Development
-🛠️ Git & GitHub for version control
-🚀 Projects
-(You can update with your own projects below — or share them with me and I’ll fill it out for you!)
+Currently working as a **Software Engineer**, I enjoy building scalable and efficient systems using:
 
-🔗 Book Store Application 1
-This application helps to keep record of all books recorded in the min libarary Project.
+- ⚙️ **Node.js**, **Express**, **Next.js**, **PHP**
+- 🧠 **JavaScript (ES6+)**, **SQL**, **MongoDB**
+- 🔧 **REST APIs**, **MVC**, **SSR**, **Web Development**
+- 🛠️ **Git & GitHub** for version control
 
-🔗 Craftly Application
-Craftly is a web application designed to help artisans market their goods and make sales. It provides a platform where artisans can showcase their products, connect with potential buyers, and manage their business efficiently.
+---
 
-🔗 GuessNode-Game-App
+## 🚀 Projects
 
-This is a live guessing game such that you and your friends can easily see your results, scores and answers.
+### 🔗 [Book Store Application](https://github.com/yourusername/book-store-app)
+This application helps keep records of all books in a mini library system.
 
-📫 Connect With Me
-🌐 LinkedIn (Drop your link and I’ll insert it for you!)
+### 🔗 [Craftly Application](https://github.com/yourusername/craftly-app)
+Craftly is a web application designed to help artisans market their goods and make sales.  
+It provides a platform where artisans can showcase their products, connect with potential buyers, and manage their businesses efficiently.
 
-📧 Email: kbrownonuigbo@gmail.com
+### 🔗 [GuessNode-Game-App](https://github.com/yourusername/guessnode-game)
+A live guessing game that lets you and your friends track results, scores, and answers in real-time.
 
-🌍 Portfolio: kbrowndev.com
+---
 
-⚡ Fun Fact
-I’m passionate about continuous learning and always looking to join dynamic teams that value innovation, user satisfaction, and clean code.
+## 📫 Connect With Me
 
-Thanks for visiting my profile! Let's connect and collaborate on something awesome.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/brown-onuigbo-2146208a/)
+- 📧 Email: [kbrownonuigbo@gmail.com](mailto:kbrownonuigbo@gmail.com)
+- 🌍 Portfolio: [kbrowndev.com](https://kbrowndev.com)
 
-Select a repo
+---
+
+### ⚡ Fun Fact
+
+I’m passionate about **continuous learning** and always looking to join dynamic teams that value **innovation**, **user satisfaction**, and **clean code**.
+
+---
+
+*Thanks for visiting my profile! Let's connect and collaborate on something awesome.*
